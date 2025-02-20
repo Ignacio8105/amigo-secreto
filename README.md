@@ -1,7 +1,7 @@
-<h1 align="center">Juego del amigo secreto</h1>
-<center>
+<a href="">
   <img src="https://github.com/user-attachments/assets/8276babe-8d47-40a9-b591-d76e55965b3b" alt="Logo-amigo-secreto">
-</center>
+</a>
+
 <p>
  <img src="https://img.shields.io/badge/STATUS-Desarrollo-green" alt="Desarrollo"> 
 </p>
@@ -23,10 +23,16 @@
 </p>
 
 ## Programas usados
+ <p>
+  :heavy_check_mark: HTML
+ </p>
+ <p>
+ :heavy_check_mark: CSS  
+ </p>
 <p>
-  <img src"https://github.com/user-attachments/assets/cf7f9fe1-6eb8-4330-98ab-9bf932c3cd16" alt="logos">
+ :heavy_check_mark: JavaScript 
 </p>
-
+ 
 ## Agradecimientos
 <p>
   Agradesco a Oracle y Alura Latam, por el apoyo proporcionado para el desarrollo de esta aplicacion
