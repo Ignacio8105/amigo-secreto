@@ -1,4 +1,4 @@
-<a href=" https://ignacio8105.github.io/amigo-secreto/">
+<a href="https://ignacio8105.github.io/amigo-secreto/">
   <img src="https://github.com/user-attachments/assets/8276babe-8d47-40a9-b591-d76e55965b3b" alt="Logo-amigo-secreto">
 </a>
 
