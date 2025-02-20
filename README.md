@@ -1,10 +1,11 @@
-<a href="">
+<a href=" https://ignacio8105.github.io/amigo-secreto/">
   <img src="https://github.com/user-attachments/assets/8276babe-8d47-40a9-b591-d76e55965b3b" alt="Logo-amigo-secreto">
 </a>
 
 <p>
  <img src="https://img.shields.io/badge/STATUS-Desarrollo-green" alt="Desarrollo"> 
-</p>
+ <img src="https://img.shields.io/badge/CODE_STYLE-bonito-ff69b4.svg" alt="Codigo mas bonito">
+ </p>
 
 ## Descripcion del proyecto
 <p align="justify">
