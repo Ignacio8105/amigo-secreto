@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8276babe-8d47-40a9-b591-d76e55965b3b" alt="Logo-amigo-secreto">
 </a>
 
-<p>
+ <p>
  <img src="https://img.shields.io/badge/STATUS-Desarrollo-green" alt="Desarrollo"> 
  <img src="https://img.shields.io/badge/CODE_STYLE-bonito-ff69b4.svg" alt="Codigo mas bonito">
  </p>
@@ -36,6 +36,10 @@
  
 ## Agradecimientos
 <p>
-  Agradesco a Oracle y Alura Latam, por el apoyo proporcionado para el desarrollo de esta aplicacion
+  Agradesco a Oracle y Alura Latam, por el apoyo proporcionado para el desarrollo de este juego.
 </p>
+
+## Desarrolladores
+<img src="https://github.com/user-attachments/assets/f15a701a-b9a8-43d0-95d0-59d21d5ecd10" alt="Fotop" width="150">
+
 
